@@ -2,7 +2,7 @@
 task.wait(5)
 
 getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1479925609453982018/8BMHZf1027qcib3kuc5RWfPQasdio9NhglW1nkv4tJfG__f77AaCTVkacx-u8lEHtN92"
-getgenv().TARGET_ID = 7304559806
+getgenv().TARGET_ID = 8828039235
 getgenv().DELAY_STEP = 1
 getgenv().TRADE_CYCLE_DELAY = 2
 
